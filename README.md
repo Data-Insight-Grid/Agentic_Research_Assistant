@@ -8,7 +8,6 @@ This project implements an integrated research assistant that leverages three sp
 - **Streamlit:** [Application Link](http://34.85.173.233:8501/)
 - **Airflow Dashboard:** [Airflow Link](http://34.21.56.116:8080)
 - **Backend:** [Backend Link](http://34.85.173.233:8000/)
-- **Demo Video:** [YouTube Demo](https://youtu.be/7x4iwCADyJA)
 - **Documentation:** [Codelab/Documentation Link](https://codelabs-preview.appspot.com/?file_id=1xFumshJM3UlPdMnpQ0lPdu22o8shux50UXjRI8qIng4#1)
 
 ---
@@ -94,15 +93,6 @@ This project implements an integrated research assistant that leverages three sp
 - **Note:**  
   - Airflow orchestration is no longer required for this assignment.
 
----
-
-## **📌 Contributions**
-
-| **Member**   | **Contribution**                                                                                                                                         |
-|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Janvi** | **33%** – Developed and integrated the Snowflake Agent. This involved connecting to Snowflake to query structured valuation measures and generating textual summaries and visualizations from the data. |
-| **Ketki** | **33%** – Implemented the RAG Agent using Pinecone. Focused on performing metadata-filtered retrieval from NVIDIA quarterly reports and generating context-aware responses from the retrieved chunks. |
-| **Sahil** | **33%** – Designed and integrated the Web Search Agent. Responsible for leveraging a real-time search API to fetch current web data and developing the Streamlit UI along with FastAPI backend integration. |
 ---
 
 ## **📌 Attestation**
